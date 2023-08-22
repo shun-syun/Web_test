@@ -1,0 +1,12 @@
+初めてのWebアプリ
+JavaScriptについて、実際に動くものを作成して理解を深めた。
+
+＜使用したもの＞
+・配列
+・繰り返し処理(while文)
+・条件分岐(if文)
+・alertオブジェクト → 特にwindow.alert
+・htmlの読み込み
+
+＜参考＞
+・https://www.youtube.com/watch?v=ig3GosWuKF0

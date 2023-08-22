@@ -1,0 +1,25 @@
+.tab {
+    width: 500px;
+}
+.tab-nav {
+    display: flex;
+}
+.tab-nav-item {
+    margin-right: 10px;
+    background-color: gray;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px 5px 0 0;
+}
+.tab-nav-item.is-active {
+    background-color: aqua;
+    color: brown;
+}
+.tab-content {
+    border: 1px solid #090404;
+    padding: 20px;
+}
+.tab-content-item {
+    display: none;
+}
